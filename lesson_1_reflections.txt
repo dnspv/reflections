@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was very easy with the help of +/- sighs in front of the changed strings 
+	of code
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If I used version control system, I would be more productive, as I could 
+	track every change I do to the code
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: controlling versions of code.
+    Cons: human errors, lack of attention.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git is used for tracking codes, while Google Docs is for editing a single file.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log <commit_id>
+    git log --stat <commit_id>
+    git diff <first_commit_id> <second_commit_id>
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Every time you find a new bug, you can git checkout to commit where there 
+	was no bug to see the difference in code between a buggy version and a 
+	bug-free version
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I should make a webpage, then I should try to make a django app
