@@ -11,11 +11,14 @@ be commited.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-	
+
 	git diff & git diff --staged
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	Branching would help if I wanted to make a different version of code
+	based on the master branch
 
 How do the diagrams help you visualize the branch structure?
 
