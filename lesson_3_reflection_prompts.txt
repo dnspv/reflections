@@ -12,3 +12,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	Clones are full copies of git (and github) branches, including all reachable commits.
 	Branches are... well, branches from the main project branch (i.e. master)
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	We can inspect it using our offline tools like git diff and git log
+
