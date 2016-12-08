@@ -16,3 +16,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	We can inspect it using our offline tools like git diff and git log
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	I would send separate files or zip archive to my collegue. It would be easier to unpack and insert if there were no conflicts, bugs or typos. Otherwise it would be much harder.
+
